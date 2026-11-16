@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+﻿# Simple Interest Calculator
 
 A beginner-friendly command-line utility written in Bash to calculate simple interest based on user-provided inputs for principal amount, annual rate of interest, and time period in years.
 
