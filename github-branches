@@ -1,0 +1,28 @@
+curl -s https://api.github.com/repos/Prathamesh-sh/mcino-Introduction-to-Git-and-GitHub/branches
+
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "b0d37d5b78cb0b5502a360e7d24f69256b985026",
+      "url": "https://api.github.com/repos/prathamesh-sh/mcino-Introduction-to-Git-and-GitHub/commits/b0d37d5b78cb0b5502a360e7d24f69256b985026"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "c3de78e2ebf54268deb876016e79653a5baa63c2",
+      "url": "https://api.github.com/repos/prathamesh-sh/mcino-Introduction-to-Git-and-GitHub/commits/c3de78e2ebf54268deb876016e79653a5baa63c2"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "c3de78e2ebf54268deb876016e79653a5baa63c2",
+      "url": "https://api.github.com/repos/prathamesh-sh/mcino-Introduction-to-Git-and-GitHub/commits/c3de78e2ebf54268deb876016e79653a5baa63c2"
+    },
+    "protected": false
+  }
+]
